@@ -26,6 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: profile-summary-card-output
           UTC_OFFSET: -3
+          THEME: tokyonight
+          EXCLUDE: "Swift,HTML,CSS,JavaScript"
           AUTO_PUSH: true
