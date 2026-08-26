@@ -37,10 +37,16 @@ jobs:
           CARD_USER: ${{ github.repository_owner }}
         run: python3 scripts/top-langs.py
 
-      - name: Push top languages card
+      - name: Generate contributions graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CARD_USER: ${{ github.repository_owner }}
+        run: python3 scripts/contrib-graph.py
+
+      - name: Push generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/top-languages.svg
-          git diff --staged --quiet || git commit -m "Update top languages card"
+          git add assets/top-languages.svg assets/contributions.svg
+          git diff --staged --quiet || git commit -m "Update generated cards"
           git push
