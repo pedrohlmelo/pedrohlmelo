@@ -29,12 +29,15 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="200" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="estatísticas gerais"/>
-  <img height="200" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="linguagens por repositório"/>
+  <img src="assets/contributions.svg" width="95%" alt="gráfico de contribuições"/>
 </div>
 
 <div align="center">
-  <img height="200" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="linguagens mais commitadas"/>
+  <img height="200" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="estatísticas gerais"/>
+  <img height="200" src="assets/top-languages.svg" alt="linguagens mais usadas"/>
+</div>
+
+<div align="center">
   <img height="200" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="horários mais produtivos"/>
 </div>
 
