@@ -26,6 +26,24 @@
 
 <br/>
 
+## 🤝 Contribuições em Open Source
+
+<div align="center">
+
+<a href="https://github.com/JuliusBrussee/caveman">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuliusBrussee&repo=caveman&theme=tokyonight&hide_border=true&bg_color=00000000" alt="JuliusBrussee/caveman"/>
+</a>
+
+<a href="https://github.com/JuliusBrussee/caveman/stargazers"><img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&color=58a6ff&labelColor=1a1b27&label=estrelas" alt="estrelas"/></a>
+<a href="https://github.com/JuliusBrussee/caveman/network/members"><img src="https://img.shields.io/github/forks/JuliusBrussee/caveman?style=flat-square&color=58a6ff&labelColor=1a1b27&label=forks" alt="forks"/></a>
+<a href="https://github.com/JuliusBrussee/caveman/pull/794"><img src="https://img.shields.io/badge/PR%20%23794-merged-8957e5?style=flat-square&labelColor=1a1b27" alt="PR #794"/></a>
+
+<sub><a href="https://github.com/JuliusBrussee/caveman/pull/794">#794</a> — <code>fix(stats): count each API response once, not once per content-block line</code></sub>
+
+</div>
+
+<br/>
+
 ## 📊 Estatísticas
 
 <div align="center">
