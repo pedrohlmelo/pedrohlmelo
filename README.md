@@ -45,6 +45,10 @@
 
 <p><sub><code>fix(stats): count each API response once, not once per content-block line</code></sub></p>
 
+<a href="https://github.com/JuliusBrussee/caveman/commit/efd02e58c3fe1216b4f4d650d162bed4d2c23416"><img src="https://img.shields.io/badge/COMMIT%20efd02e5-NA%20MAIN-a371f7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2EzNzFmNyI%2BPHBhdGggZD0iTTEwLjUgNy43NWEyLjUgMi41IDAgMSAxLTUgMCAyLjUgMi41IDAgMCAxIDUgMFptMS40My43NWE0LjAwMiA0LjAwMiAwIDAgMS03Ljg2IDBILjc1YS43NS43NSAwIDAgMSAwLTEuNWgzLjMyYTQuMDAxIDQuMDAxIDAgMCAxIDcuODYgMGgzLjMyYS43NS43NSAwIDAgMSAwIDEuNVoiLz48L3N2Zz4%3D&labelColor=1a1b27" alt="commit efd02e5 na main"/></a>
+
+<p><sub><code>fix(hooks): restore "go (back) to normal mode" deactivation</code></sub></p>
+
 </td></tr>
 </table>
 
