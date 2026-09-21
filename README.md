@@ -41,9 +41,16 @@
 
 <a href="https://github.com/JuliusBrussee/caveman/stargazers"><img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2UzYjM0MSI%2BPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiLz48L3N2Zz4%3D&label=ESTRELAS&labelColor=1a1b27&color=e3b341" alt="estrelas"/></a>
 <a href="https://github.com/JuliusBrussee/caveman/network/members"><img src="https://img.shields.io/github/forks/JuliusBrussee/caveman?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iIzU4YTZmZiI%2BPHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIi8%2BPC9zdmc%2B&label=FORKS&labelColor=1a1b27&color=58a6ff" alt="forks"/></a>
+
+</td></tr>
+<tr><td align="center" width="620">
+
 <a href="https://github.com/JuliusBrussee/caveman/pull/794"><img src="https://img.shields.io/badge/PR%20%23794-MERGED-a371f7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2EzNzFmNyI%2BPHBhdGggZD0iTTUuNDUgNS4xNTRBNC4yNSA0LjI1IDAgMCAwIDkuMjUgNy41aDEuMzc4YTIuMjUxIDIuMjUxIDAgMSAxIDAgMS41SDkuMjVBNS43MzQgNS43MzQgMCAwIDEgNSA3LjEyM3YzLjUwNWEyLjI1IDIuMjUgMCAxIDEtMS41IDBWNS4zNzJhMi4yNSAyLjI1IDAgMSAxIDEuOTUtLjIxOFpNNC4yNSAxMy41YS43NS43NSAwIDEgMCAwLTEuNS43NS43NSAwIDAgMCAwIDEuNVptOC41LTQuNWEuNzUuNzUgMCAxIDAgMC0xLjUuNzUuNzUgMCAwIDAgMCAxLjVaTTUgMy4yNWEuNzUuNzUgMCAxIDAgMCAuMDA1VjMuMjVaIi8%2BPC9zdmc%2B&labelColor=1a1b27" alt="PR #794 merged"/></a>
 
 <p><sub><code>fix(stats): count each API response once, not once per content-block line</code></sub></p>
+
+</td></tr>
+<tr><td align="center" width="620">
 
 <a href="https://github.com/JuliusBrussee/caveman/commit/efd02e58c3fe1216b4f4d650d162bed4d2c23416"><img src="https://img.shields.io/badge/COMMIT%20efd02e5-NA%20MAIN-a371f7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2EzNzFmNyI%2BPHBhdGggZD0iTTEwLjUgNy43NWEyLjUgMi41IDAgMSAxLTUgMCAyLjUgMi41IDAgMCAxIDUgMFptMS40My43NWE0LjAwMiA0LjAwMiAwIDAgMS03Ljg2IDBILjc1YS43NS43NSAwIDAgMSAwLTEuNWgzLjMyYTQuMDAxIDQuMDAxIDAgMCAxIDcuODYgMGgzLjMyYS43NS43NSAwIDAgMSAwIDEuNVoiLz48L3N2Zz4%3D&labelColor=1a1b27" alt="commit efd02e5 na main"/></a>
 
