@@ -57,6 +57,13 @@
 <p><sub><code>fix(hooks): restore "go (back) to normal mode" deactivation</code></sub></p>
 
 </td></tr>
+<tr><td align="center" width="620">
+
+<a href="https://github.com/JuliusBrussee/caveman/commit/3df06a800bb3d5819c8e142dddb9e69ceb497012"><img src="https://img.shields.io/badge/COMMIT%203df06a8-NA%20MAIN-a371f7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2EzNzFmNyI%2BPHBhdGggZD0iTTEwLjUgNy43NWEyLjUgMi41IDAgMSAxLTUgMCAyLjUgMi41IDAgMCAxIDUgMFptMS40My43NWE0LjAwMiA0LjAwMiAwIDAgMS03Ljg2IDBILjc1YS43NS43NSAwIDAgMSAwLTEuNWgzLjMyYTQuMDAxIDQuMDAxIDAgMCAxIDcuODYgMGgzLjMyYS43NS43NSAwIDAgMSAwIDEuNVoiLz48L3N2Zz4%3D&labelColor=1a1b27" alt="commit 3df06a8 na main"/></a>
+
+<p><sub><code>fix(engine): stop non-finite values riding the numeric track</code></sub></p>
+
+</td></tr>
 </table>
 
 </div>
